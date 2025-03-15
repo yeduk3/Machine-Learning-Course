@@ -1,3 +1,3 @@
 # Readme
 
-Machine Learning course in Ajou Univ. at 3-1.
+Repo for Machine Learning course in Ajou Univ. at 3-1.
